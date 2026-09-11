@@ -1,6 +1,6 @@
-# Hi! Nice to see you, I'm Gizem :)
+# Hi!👋 Nice to see you, I'm Gizem :)
 
-I'm React Native Developer at Dominos more than 4 years. Please find me on [LinkedIn](https://www.linkedin.com/in/gizem-g%C3%BCle%C3%A7-9585b4162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) for a more detailed description of my full work experience, education and certification.
+I'm a Senior React Native Developer at Aksigorta with 5+ years of experience crafting mobile apps for iOS and Android. I care about clean code, smooth UX, and reliable release pipelines. Check out my [LinkedIn](https://www.linkedin.com/in/gizem-g%C3%BCle%C3%A7-9585b4162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) for the full story — experience, education, and certifications.
 
 <!--
 **gizemgulec/gizemgulec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +33,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Appcircle-3E63DD?style=flat&logo=appcircle&logoColor=white" alt="Appcircle" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux Toolkit" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white" alt="MobX" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=black" alt="Fastlane" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Google Play" style="margin-right: 10px;" />
 </p>
 
 ## Mobile Release & Publishing
