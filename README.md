@@ -32,7 +32,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Appcircle-3E63DD?style=flat&logo=appcircle&logoColor=white" alt="Appcircle" style="margin-right: 10px;" />
 </p>
+
+## Mobile Release & Publishing
+
+CI/CD and store delivery for React Native apps using **Appcircle**:
+
+- 🔧 **Build & signing** — automated iOS/Android builds with managed certificates & provisioning profiles
+- 🧪 **Distribution** — internal testing builds shared via Appcircle's testing distribution
+- 🚀 **Store publish** — automated submission to **Google Play** (internal → production tracks) and **App Store Connect** (TestFlight → App Store review)
+- 📦 **Versioning** — automated build number & version management across release channels
 
 ## Where to find me
 <p align="left">
