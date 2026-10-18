@@ -28,6 +28,7 @@ Day-to-day development with AI: agentic coding tools, LLM-powered features, and 
   <img src="https://img.shields.io/badge/RAG-1C7C54?style=flat&logoColor=white" alt="RAG" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-5A29E4?style=flat&logoColor=white" alt="Prompt Engineering" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white" alt="Model Context Protocol" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" style="margin-right: 10px;" />
 </p>
 
 ## Languages and Tools:
