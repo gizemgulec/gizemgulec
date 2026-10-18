@@ -1,6 +1,6 @@
 # Hi!👋 Nice to see you, I'm Gizem :)
 
-I'm a Senior React Native Developer at Aksigorta with 5+ years of experience crafting mobile apps for iOS and Android. I care about clean code, smooth UX, and reliable release pipelines. Check out my [LinkedIn](https://www.linkedin.com/in/gizem-g%C3%BCle%C3%A7-9585b4162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) for the full story — experience, education, and certifications.
+I'm a Senior React Native Developer at Aksigorta with 5+ years of experience crafting mobile apps for iOS and Android. I care about clean code, smooth UX, and reliable release pipelines — and I build with AI every day, using LLMs, RAG, and agentic coding tools like **Claude** & **Codex** as part of my workflow. Check out my [LinkedIn](https://www.linkedin.com/in/gizem-g%C3%BCle%C3%A7-9585b4162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) for the full story — experience, education, and certifications.
 
 <!--
 **gizemgulec/gizemgulec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
