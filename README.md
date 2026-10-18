@@ -16,6 +16,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🤖 AI & LLM
+
+Day-to-day development with AI: agentic coding tools, LLM-powered features, and RAG pipelines.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Code" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI Codex" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/LLM-10A37F?style=flat&logo=openai&logoColor=white" alt="LLM" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/RAG-1C7C54?style=flat&logoColor=white" alt="RAG" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-5A29E4?style=flat&logoColor=white" alt="Prompt Engineering" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white" alt="Model Context Protocol" style="margin-right: 10px;" />
+</p>
+
 ## Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" style="margin-right: 10px;" />
