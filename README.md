@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" alt="SwiftUI" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" alt="Xcode" style="margin-right: 10px;" />
